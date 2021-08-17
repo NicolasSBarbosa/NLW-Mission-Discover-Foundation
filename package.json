@@ -1,0 +1,19 @@
+{
+    "name": "RocketQ",
+    "version": "1.0.0",
+    "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missão discover",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/server.js"
+    },
+    "keywords": [],
+    "author": "Nicolas Barbosa",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.12",
+        "sqlite": "^4.0.23",
+        "sqlite3": "^5.0.2"
+    }
+}
